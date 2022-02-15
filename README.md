@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Robson Tenorio 👋</h1>
 
-<h3 align="center">Sou Técnico em Informática Industrial e estudo Superior em Desenvolvimento Back-End - UNOPAR</h3>
+<h3 align="center">Sou Técnico em Informática Industrial e cursando Superior em Desenvolvimento WEB - UNOPAR</h3>
 
 <h4 align="center">Atualmente trabalhando com criação de sites. 💻</h4>
 
