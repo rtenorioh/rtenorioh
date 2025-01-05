@@ -1,8 +1,10 @@
-<h1 align="center">Olá! Eu sou o Robson Tenorio 👋</h1>
+# Olá! Eu sou o Robson Tenorio 👋
 
-<h3 align="center">Sou Técnico em Informática Industrial e cursando Superior em Desenvolvimento WEB - UNOPAR</h3>
+### Sou Graduado em Superior em Desenvolvimento WEB
 
-<h4 align="center">Atualmente trabalhando com criação de sites. 💻</h4>
+### Atualmente fazendo Pós Graduação em Administração de Banco de Dados.
+
+### Responsável pelo Sistema [Press Ticket](https://github.com/rtenorioh/Press-Ticket)
 
 <div>
   <a href="https://github.com/rtenorioh">
